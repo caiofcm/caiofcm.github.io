@@ -1,0 +1,7 @@
+{
+  "goals": [
+    {"label": "Run 5km", "progress": 60},
+    {"label": "GCP fundamentals course", "progress": 30},
+    {"label": "Leme/Copa swim (^3.6km)", "progress": 65}
+  ]
+}
